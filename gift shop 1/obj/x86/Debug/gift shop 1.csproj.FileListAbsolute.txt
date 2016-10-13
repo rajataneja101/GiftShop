@@ -1,0 +1,17 @@
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\bin\Debug\gift shop 1.exe
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\bin\Debug\gift shop 1.pdb
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\obj\x86\Debug\gift_shop_1.Form1.resources
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\obj\x86\Debug\gift_shop_1.Properties.Resources.resources
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\obj\x86\Debug\gift shop 1.csproj.GenerateResource.Cache
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\obj\x86\Debug\gift shop 1.exe
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\obj\x86\Debug\gift shop 1.pdb
+C:\Users\RAJAT'S PITSTOP\AppData\Local\Temporary Projects\gift shop 1\obj\x86\Debug\gift_shop_1.Form2.resources
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift shop 1.exe
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift shop 1.pdb
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\bin\Debug\gift shop 1.exe
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\bin\Debug\gift shop 1.pdb
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift_shop_1.Form1.resources
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift_shop_1.Form2.resources
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift_shop_1.Properties.Resources.resources
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift shop 1.csproj.GenerateResource.Cache
+C:\Users\RAJAT'S PITSTOP\Documents\Visual Studio 2010\Projects\gift shop 1\gift shop 1\obj\x86\Debug\gift_shop_1.Form3.resources
